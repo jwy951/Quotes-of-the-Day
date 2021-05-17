@@ -32,12 +32,12 @@ showDetails(index) {
 
     }
   }
-  downVote(downvote, index) {
-    console.log(index);
-    if (downvote) {
-      this.quotes[index].downvote += 1;
+  // downVote(downvote, index) {
+  //   console.log(index);
+  //   if (downvote) {
+  //     this.quotes[index].downvote += 1;
 
-    }
+  //   }
   }
   addQuote(quote) {
     let len = this.quotes.length;
