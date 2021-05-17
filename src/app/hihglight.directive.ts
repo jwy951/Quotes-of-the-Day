@@ -3,8 +3,9 @@ import { Directive, ElementRef } from '@angular/core';
 @Directive({
   selector: '[appHihglight]'
 })
-// export class HihglightDirective {
+export class HihglightDirective {
 
   constructor() { }
 
 }
+hshs
