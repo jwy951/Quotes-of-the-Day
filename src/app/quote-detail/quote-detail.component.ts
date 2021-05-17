@@ -21,9 +21,9 @@ export class QuoteDetailComponent implements OnInit {
   quoteUpvote(upvote: boolean) {
     this.upVote.emit(upvote);
   }
-  // quoteDownvote(downvote: boolean) {
-  //   this.downVote.emit(downvote);
-  // }
+  quoteDownvote(downvote: boolean) {
+    this.downVote.emit(downvote);
+  }
 
   // toggleDetails(index){
   //   this.quotes[index].description = !this.quotes[index].description;
