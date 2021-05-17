@@ -22,6 +22,6 @@ To access this project on your local files, you can clone it using these steps
 1. Git
 
 ### Live Site
-View [live](https://jwy951.github.io/Quotes-of-the-Day/)
+View [live](https://jwy951.github.io/Quotes-of-the-day/)
 ### Licence
 This project is under the  [MIT](LICENSE) licences
