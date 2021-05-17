@@ -1,0 +1,13 @@
+* {
+  margin: 0%;
+  font-size: 110%;
+}
+
+input {
+  background-color: rgb(87, 87, 250)
+
+}
+
+textarea {
+  background-color: #C4C4C4;
+}

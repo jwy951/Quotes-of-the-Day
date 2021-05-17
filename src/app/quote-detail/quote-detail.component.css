@@ -1,0 +1,16 @@
+button {
+  margin: 10px;
+}
+
+#upvote {
+  background-color: #1449f6;
+  color: #fff;
+}
+
+#downvote {
+  background-color: rgb(236, 29, 14);
+  color:#1449f6
+}
+
+/* #delete {
+  background-color: red; */
