@@ -8,4 +8,3 @@ export class HihglightDirective {
   constructor() { }
 
 }
-hshs
