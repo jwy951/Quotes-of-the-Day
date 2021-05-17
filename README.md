@@ -8,7 +8,7 @@ You need to have git installed
 You can install it with the following command in your terminal
 `$ sudo apt install git-all`
 ### Github asses link
-https://github.com/jwy951/Quotes-of-the-Day.git
+https://github.com/jwy951/Quotes-of-the-day.git
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
